@@ -1,0 +1,23 @@
+/* Box Grid CSS */
+
+.box-grid {
+    display: inline-flex;
+}
+
+
+/*  Box CSS */
+
+.box {
+    width: 30%;
+    height: 30%;
+    margin-right: 5%;
+    padding: 7em;
+    background-color: black;
+    border-radius: 10%;
+    border: 5px solid red;
+    color: white;
+}
+
+.box:hover {
+
+}

@@ -1,0 +1,15 @@
+.submit {
+    background-color: lightblue;
+    height: 58px;
+    width: 100px;
+}
+
+.submit:hover {
+    background-color: silver;
+}
+
+.character {
+    height: 50px;
+    width: 300px;
+    font-size: 25px;
+}
